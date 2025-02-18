@@ -1,9 +1,6 @@
 Currículum Vitae de Joel
 Este repositorio contiene mi currículum vitae en formato web.
 
-Enlace
-Puedes ver mi CV en el siguiente enlace: https://ingejoel.github.io/DevJoel-cv
-
 Contenido
 Perfil.html: Página principal de mi CV.
 Perfil.css: Hoja de estilos para el diseño de la página.
